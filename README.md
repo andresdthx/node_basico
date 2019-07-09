@@ -19,11 +19,3 @@ git checkout [NOMBRE_RAMA] && npm install
 ```
 
 Con esto hecho, su lección estará lista para ser desarrollada junto al programa.
-
-## Autor
-
-* **Platzi**
-
-## Licencia
-
-* **Licencia MIT**
